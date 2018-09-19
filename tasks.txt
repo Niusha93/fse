@@ -1,0 +1,4 @@
+1.we should create a asp.net web api project
+2.we start a create angular project
+3.say hello world via angular
+4.connect to web/api and through a message
