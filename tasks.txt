@@ -2,3 +2,4 @@
 2.we start a create angular project
 3.say hello world via angular
 4.connect to web/api and through a message
+5.configure everything for niusha laptop
